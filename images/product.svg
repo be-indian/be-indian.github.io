@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1438.0022"
+   height="1383.7183"
+   viewBox="0 0 380.47141 366.1088"
+   version="1.1"
+   id="svg841"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="product22.svg">
+  <defs
+     id="defs835" />
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.34184994"
+     inkscape:cx="1075.0256"
+     inkscape:cy="743.5524"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true"
+     inkscape:snap-global="true"
+     inkscape:snap-others="false" />
+  <metadata
+     id="metadata838">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-20.400522,-115.33474)"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1321"
+       transform="matrix(1.4644351,0,0,1.4644351,-106.42328,-177.55228)">
+      <g
+         transform="translate(1.5142052e-6,150)"
+         id="g1445">
+        <path
+           style="fill:#ffe689;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 86.60254,150 173.20508,200 346.41017,100 259.80762,50 Z"
+           id="path1406" />
+        <path
+           style="fill:#ffd52e;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 86.60254,150 v 100 l 86.60254,50 V 200 Z"
+           id="path1408" />
+        <path
+           style="fill:#eebf00;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 173.20508,200 346.41017,100 V 200 L 173.20508,300 Z"
+           id="path1410" />
+      </g>
+      <g
+         id="barcode"
+         style="fill:#000000"
+         transform="matrix(0.36627024,-0.2257834,0,0.36627024,297.95668,358.20348)">
+        <rect
+           x="0"
+           y="0"
+           id="barcode_bar1"
+           width="1"
+           height="30" />
+        <rect
+           x="3"
+           y="0"
+           id="barcode_bar3"
+           width="1"
+           height="30" />
+        <rect
+           x="5"
+           y="0"
+           id="barcode_bar5"
+           width="2"
+           height="30" />
+        <rect
+           x="8"
+           y="0"
+           id="barcode_bar7"
+           width="2"
+           height="30" />
+        <rect
+           x="11"
+           y="0"
+           id="barcode_bar9"
+           width="1"
+           height="30" />
+        <rect
+           x="13"
+           y="0"
+           id="barcode_bar11"
+           width="1"
+           height="30" />
+        <rect
+           x="15"
+           y="0"
+           id="barcode_bar13"
+           width="2"
+           height="30" />
+        <rect
+           x="18"
+           y="0"
+           id="barcode_bar15"
+           width="2"
+           height="30" />
+        <rect
+           x="21"
+           y="0"
+           id="barcode_bar17"
+           width="1"
+           height="30" />
+        <rect
+           x="24"
+           y="0"
+           id="barcode_bar19"
+           width="1"
+           height="30" />
+        <rect
+           x="26"
+           y="0"
+           id="barcode_bar21"
+           width="2"
+           height="30" />
+        <rect
+           x="29"
+           y="0"
+           id="barcode_bar23"
+           width="1"
+           height="30" />
+        <rect
+           x="31"
+           y="0"
+           id="barcode_bar25"
+           width="1"
+           height="30" />
+        <rect
+           x="33"
+           y="0"
+           id="barcode_bar27"
+           width="2"
+           height="30" />
+        <rect
+           x="37"
+           y="0"
+           id="barcode_bar29"
+           width="1"
+           height="30" />
+        <rect
+           x="39"
+           y="0"
+           id="barcode_bar31"
+           width="2"
+           height="30" />
+        <rect
+           x="42"
+           y="0"
+           id="barcode_bar33"
+           width="1"
+           height="30" />
+        <rect
+           x="44"
+           y="0"
+           id="barcode_bar35"
+           width="2"
+           height="30" />
+        <rect
+           x="47"
+           y="0"
+           id="barcode_bar37"
+           width="1"
+           height="30" />
+        <rect
+           x="50"
+           y="0"
+           id="barcode_bar39"
+           width="1"
+           height="30" />
+        <rect
+           x="52"
+           y="0"
+           id="barcode_bar41"
+           width="1"
+           height="30" />
+        <rect
+           x="54"
+           y="0"
+           id="barcode_bar43"
+           width="1"
+           height="30" />
+        <rect
+           x="56"
+           y="0"
+           id="barcode_bar45"
+           width="2"
+           height="30" />
+        <rect
+           x="60"
+           y="0"
+           id="barcode_bar47"
+           width="1"
+           height="30" />
+        <rect
+           x="62"
+           y="0"
+           id="barcode_bar49"
+           width="2"
+           height="30" />
+        <rect
+           x="65"
+           y="0"
+           id="barcode_bar51"
+           width="2"
+           height="30" />
+        <rect
+           x="69"
+           y="0"
+           id="barcode_bar53"
+           width="1"
+           height="30" />
+        <rect
+           x="71"
+           y="0"
+           id="barcode_bar55"
+           width="1"
+           height="30" />
+        <rect
+           x="73"
+           y="0"
+           id="barcode_bar57"
+           width="1"
+           height="30" />
+        <rect
+           x="75"
+           y="0"
+           id="barcode_bar59"
+           width="2"
+           height="30" />
+        <rect
+           x="78"
+           y="0"
+           id="barcode_bar61"
+           width="2"
+           height="30" />
+        <rect
+           x="81"
+           y="0"
+           id="barcode_bar63"
+           width="2"
+           height="30" />
+        <rect
+           x="84"
+           y="0"
+           id="barcode_bar65"
+           width="1"
+           height="30" />
+        <rect
+           x="87"
+           y="0"
+           id="barcode_bar67"
+           width="1"
+           height="30" />
+        <rect
+           x="89"
+           y="0"
+           id="barcode_bar69"
+           width="1"
+           height="30" />
+        <rect
+           x="91"
+           y="0"
+           id="barcode_bar71"
+           width="1"
+           height="30" />
+        <rect
+           x="93"
+           y="0"
+           id="barcode_bar73"
+           width="1"
+           height="30" />
+        <rect
+           x="95"
+           y="0"
+           id="barcode_bar75"
+           width="2"
+           height="30" />
+        <rect
+           x="98"
+           y="0"
+           id="barcode_bar77"
+           width="2"
+           height="30" />
+        <rect
+           x="102"
+           y="0"
+           id="barcode_bar79"
+           width="1"
+           height="30" />
+        <rect
+           x="104"
+           y="0"
+           id="barcode_bar81"
+           width="1"
+           height="30" />
+        <rect
+           x="107"
+           y="0"
+           id="barcode_bar83"
+           width="1"
+           height="30" />
+        <rect
+           x="109"
+           y="0"
+           id="barcode_bar85"
+           width="2"
+           height="30" />
+        <rect
+           x="112"
+           y="0"
+           id="barcode_bar87"
+           width="2"
+           height="30" />
+        <rect
+           x="115"
+           y="0"
+           id="barcode_bar89"
+           width="1"
+           height="30" />
+        <text
+           x="58"
+           y="39"
+           style="font-size:9px;text-align:center;text-anchor:middle"
+           xml:space="preserve"
+           id="barcode_text">PRODUCT</text>
+      </g>
+      <path
+         sodipodi:nodetypes="cccccccccccccc"
+         style="fill:#c87137;stroke:#c87137;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 121.24355,359.99999 2.16506,-2.58098 2.16507,5.08098 2.16506,-2.58098 2.16506,5.08098 2.16507,-2.58097 2.16506,5.08098 2.16507,-2.58098 L 138.56406,370 V 330 L 311.76915,230 294.44862,220 121.24355,319.99999 Z"
+         id="path995" />
+    </g>
+  </g>
+</svg>
