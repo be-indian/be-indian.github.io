@@ -8,21 +8,18 @@
 }
 
 
-.header-index {
+.text {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.header-img {
+    /* padding-top:60px; */
     max-width: 100%;
     height: 70vh;
     background-image: url("images/Apps2.jpg");
     background-size: cover;
 }
-
-.header-product {
-    max-width: 100%;
-    height: 70vh;
-    background-image: url("images/header_bg.jpg");
-    background-size:contain;
-}
-
-
 
 .description {
     /* padding-top:auto; */
@@ -62,7 +59,7 @@
     min-width: 100%;
     left: 0;
     top: 0;
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 0.8);
 }
 
 .page-footer {
